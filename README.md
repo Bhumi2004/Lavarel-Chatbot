@@ -133,12 +133,6 @@ If you'd like to contribute to this project, feel free to fork the repository an
 
 ---
 
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
 ### Acknowledgements
 
 - Laravel for providing an easy-to-use framework.
